@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme&family=Encode+Sans:wght@300;600&family=Josefin+Sans:wght@300;400&family=Noto+Serif&family=Oswald:wght@200&display=swap');
+
+*
+{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +42,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@media only screen and (min-width : 1000px)
+{
+    #layout-navbar
+    {
+       display: none;
+    }
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: grey; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: grey; 
+}
+
+#layout-menu
+{
+  background-color: #040b14 !important;
+}
+
+#layout-menu img
+{
+  border-radius: 50%;
+  border: 4px solid #2c2f3f;
+}
+
+.social-links:hover
+{
+  color: #007bff !important;
+  transition: .5s all;
 }
