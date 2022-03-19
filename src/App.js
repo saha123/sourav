@@ -10,7 +10,7 @@ import Contact from './components/Contact';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/sourav">
 
           <Routes>
 
