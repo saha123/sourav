@@ -37,7 +37,7 @@ const Home = () => {
                           Right now I'm working in <a href="https://mpsinfoservices.com/" target="_blank">MPS InfoServices</a> , a Web and App Design and Development Company situated in Salt lake city Sector 1, Kolkata since two year. Here I am working in php, Core PHP , PHP frameworks like codeigniter , Laravel , CMS like wordpress, html. css , Javascript , JQuery ,Ajax.
                           <span className="text-danger"> Recently finished one project with React JS as FrontEnd and Laravel as Backend.</span> To know more about me <Link to="/about">Click here</Link>.
                           </p>
-                          <a href="https://drive.google.com/file/d/1B3uhBRiQGCmB6OYL-yGAEqU8ff9eYm3S/view?usp=sharing" target="_blank" className="btn btn-success text-white rounded-pill d-flex justify-content-center">View C.V</a>
+                          <a href="https://drive.google.com/file/d/1ERJVbQdOlOa-te_rUmOI6i43FhTumepo/view?usp=sharing" target="_blank" className="btn btn-success text-white rounded-pill d-flex justify-content-center">View C.V</a>
                         </div>
                       </div>
                     </div>
