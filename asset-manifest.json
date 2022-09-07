@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sourav/static/css/main.ce3f44a7.css",
-    "main.js": "/sourav/static/js/main.e1af6c8f.js",
+    "main.js": "/sourav/static/js/main.4fac6c6c.js",
     "static/js/787.21d17fcb.chunk.js": "/sourav/static/js/787.21d17fcb.chunk.js",
     "static/media/Sourav Saha.jpg": "/sourav/static/media/Sourav Saha.afe8e920bcb80d57f129.jpg",
     "static/media/logo.svg": "/sourav/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sourav/index.html",
     "main.ce3f44a7.css.map": "/sourav/static/css/main.ce3f44a7.css.map",
-    "main.e1af6c8f.js.map": "/sourav/static/js/main.e1af6c8f.js.map",
+    "main.4fac6c6c.js.map": "/sourav/static/js/main.4fac6c6c.js.map",
     "787.21d17fcb.chunk.js.map": "/sourav/static/js/787.21d17fcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce3f44a7.css",
-    "static/js/main.e1af6c8f.js"
+    "static/js/main.4fac6c6c.js"
   ]
 }
