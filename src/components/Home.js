@@ -32,12 +32,11 @@ const Home = () => {
                         <div className="card-body">
                           <h5 className="card-title text-primary">Welcome! 🎉</h5>
                           <h2>I'm Sourav Saha</h2>
-                          <h6>CodeIgniter | Laravel | React JS</h6>
+                          <h6>CodeIgniter | Laravel | React JS | React Native</h6>
                           <p>
-                          Right now I'm working in <a href="https://mpsinfoservices.com/" target="_blank">MPS InfoServices</a> , a Web and App Design and Development Company situated in Salt lake city Sector 1, Kolkata since two year. Here I am working in php, Core PHP , PHP frameworks like codeigniter , Laravel , CMS like wordpress, html. css , Javascript , JQuery ,Ajax.
-                          <span className="text-danger"> Recently finished one project with React JS as FrontEnd and Laravel as Backend.</span> To know more about me <Link to="/about">Click here</Link>.
+                          Right now I'm working in <a href="https://mpsinfoservices.com/" target="_blank">MPS InfoServices</a> , a Web and App Design and Development Company situated in Salt lake city Sector 1, Kolkata since 2 years 8 months. Here I am working in php, Core PHP , PHP frameworks like codeigniter , Laravel , CMS like wordpress, html. css , Javascript , JQuery ,Ajax. Also I ve worked in Javascript library React Js as well as Javascript framework React Native.
                           </p>
-                          <a href="https://drive.google.com/file/d/1ERJVbQdOlOa-te_rUmOI6i43FhTumepo/view?usp=sharing" target="_blank" className="btn btn-success text-white rounded-pill d-flex justify-content-center">View C.V</a>
+                          <a href="https://drive.google.com/file/d/1ucJRAbLDtT8wJy0U-KUDhlCc8UMg_Nk5/view?usp=sharing" target="_blank" className="btn btn-success text-white rounded-pill d-flex justify-content-center">View C.V</a>
                         </div>
                       </div>
                     </div>

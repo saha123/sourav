@@ -44,7 +44,7 @@ const About = () => {
                       </tr>
                       <tr>
                         <th>Frameworks</th>
-                        <td>CodeIgniter , Laravel</td>
+                        <td>CodeIgniter , Laravel, React Native</td>
                       </tr>
                       <tr>
                         <th>CMS</th>
@@ -70,9 +70,9 @@ const About = () => {
                           
                           <h5>Academic Qualifications</h5>
                           <ul>
-                              <li>B.Tech in Computer Science from Jalpaiguri Government Engineering College , 2017 ( 8.32 / 10 )</li>
-                              <li>12th under West Bengal Board Of Secondary Education</li>
-                              <li>10th under West Bengal Council of Higher Secondary Education</li>
+                              <li>B.Tech in Computer Science and Engineering from Jalpaiguri Government Engineering College , 2017 ( 8.32 / 10 )</li>
+                              <li>12th under West Bengal Council of Higher Secondary Education</li>
+                              <li>10th under West Bengal Board Of Secondary Education</li>
                           </ul>
 
                           <h5>Personal Details</h5>
@@ -82,7 +82,7 @@ const About = () => {
                               <li>Address - New Circular Road , Jalpaiguri , West Bengal</li>
                               <li>Language - Bengali , English , Hindi</li>
                               <li>Strong Point - Patience, Flexible, Self motivated.</li>
-                              <li>Hobbies - Meditation, Reading and Watching videos on Vedanta, Gita.</li>
+                              <li>Hobbies - Meditation, Reading and Watching videos on Vedanta, Gita as well as self help books.</li>
                           </ul>
                          
                         </div>

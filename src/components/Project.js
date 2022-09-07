@@ -38,7 +38,7 @@ const Project = () => {
 FRAMEWORK
 </h6>
                           <ul>
-                              <li>Link : <a href="http://skynetserve.co.in/dev/" target="_blank">www.skynetserve.co.in/dev</a></li>
+                              <li>Link : <a href="http://skynetserve.co.in" target="_blank">www.skynetserve.co.in/dev</a></li>
                               <li>Description : This is website for an Insurance Company. There are four admins
 Super admin , Admin , Partner , Back office. This project is onging. Super admin can assign
 Admins in different territories. Each admin have some partner and back office working
@@ -48,7 +48,7 @@ Depending on the privileges given by super admin , each admin can give to its pa
 well as back office. Each partner’s no of mis and business will be shown to admin as well as
 super admin. An admin can be given charge of two or more than two territories. Super admin
 can give this privilege. For more details you can visit the link</li>
-<li>Status : <span className="text-danger">Ongoing</span></li>
+<li>Status : <span className="text-success">Completed</span></li>
                           </ul>
 
                           <h6><i class="fa-solid fa-arrow-right"></i> PROJECT NAME : MAKING A MULTI VENDOR WEBSITE USING REACT JS AS FRONTEND AND LARAVEL AS BACKEND</h6>
